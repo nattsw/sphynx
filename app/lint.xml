@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <!-- Visit here for lint halp: https://developer.android.com/studio/write/lint.html-->
+
+    <!-- Stuff useful to the app and maybe we don't want to ignore -->
+    <!--<issue id="AllowBackup" severity="ignore" />-->
+    <!--<issue id="GradleDependency" severity="ignore" />-->
+
+    <issue id="GoogleAppIndexingWarning" severity="ignore" />
+</lint>
